@@ -3,7 +3,7 @@ require 'pp'
 require 'csv'
 require 'pathname'
 
-NUMBER = 1
+NUMBER = 10
 
 def propose_deletion(attic, token)
   if attic.nil?
