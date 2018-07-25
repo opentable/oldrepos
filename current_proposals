@@ -10,3 +10,4 @@ opentable/log-jam
 opentable/recommendation-evaluations
 opentable/chef-solo-cookbooks
 opentable/AppleRAP
+opentable/discovery-client-rust
