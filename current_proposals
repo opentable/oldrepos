@@ -5,9 +5,7 @@ opentable/PackagePublishSandbox
 opentable/VersionedInstallers
 opentable/nLocalGeocoder
 opentable/connectionstring-helper
-opentable/ratings-evaluation
 opentable/log-jam
 opentable/recommendation-evaluations
 opentable/chef-solo-cookbooks
 opentable/AppleRAP
-opentable/discovery-client-rust
